@@ -1,0 +1,5 @@
+{
+  "name": "Omniplex: Syntropic Neuromorphic Toroid",
+  "description": "An interactive web application that simulates and visualizes the Omniplex system, a concept blending syntropic energy, topological math, and neuromorphic adaptation. Adjust parameters to explore system stability and behavior through real-time charts and a central visualization.",
+  "requestFramePermissions": []
+}
